@@ -1,6 +1,7 @@
 namespace Plugin.Toasts
 {
     using Android.App;
+    using Android.Support.Design.Widget;
     using Android.Text;
     using Android.Views;
     using System;
